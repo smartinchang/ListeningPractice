@@ -1,0 +1,30 @@
+body {
+	font-family: Calibri;
+}
+div.container {
+	margin: auto;
+	width: 328px;
+}
+div.panel {
+	margin: 0px;
+	padding: 0px;
+	width: 164px;
+	float: left;
+}
+button.sound {
+	margin: 0px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 0px;
+	width: 154px;
+	height: 79px;
+}
+button.label {
+	margin: 0px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 3px;
+	padding: 0px;
+	width: 154px;
+	height: 79px;
+}
